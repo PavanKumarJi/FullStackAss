@@ -1,0 +1,20 @@
+/* src/components/BatteryDashboard.css */
+.battery-dashboard {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    width: 300px;
+    margin: 50px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .battery-level, .battery-charging, .battery-charging-time, .battery-discharging-time {
+    margin: 10px 0;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
